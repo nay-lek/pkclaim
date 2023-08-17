@@ -1,0 +1,24 @@
+<?php
+	$hostname = "localhost";
+	$username = "root";
+	$password = "";
+	$dbname = "hos";
+	
+
+	//$dbname = "hos";
+	//$port = "3306";
+	$Conn = mysql_connect($hostname,$username,$password) or die("Can't conncet database");
+				//mysql_select_db($dbname,$Conn) or die("Can't connect table");
+
+
+
+//==
+
+
+				mysql_query("SET NAMES UTF8");
+
+
+
+
+
+?>
