@@ -9,9 +9,10 @@
     <!--<meta http-equiv="refresh" content="15">-->
     <link rel="icon" href="imgs/smartcard-icon-6.ico">
     <title>pkhosp_eclaim_import</title>
-    <link href="dist/css/bootstrap.min.css">
+    
     <link href="dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <link rel="stylesheet" href="dist/css/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <link href="dist/css/bootstrap.min.css">
 
 
 
@@ -81,4 +82,11 @@
                       </div>
                       </div>
                   </div>
-      </header>
+
+     
+
+
+
+ 
+
+</header>

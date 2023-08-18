@@ -1,7 +1,7 @@
 <?php
-	$hostname = "localhost";
-	$username = "sa";
-	$password = "sa";
+	$hostname = "192.168.1.202";
+	$username = "smra";
+	$password = "smra";
 	$dbname = "hos";
 	
 
