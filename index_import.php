@@ -315,7 +315,7 @@
                                                   $strSQL .= ",'".$worksheet->getCell('W'.$row)->getValue()."','".$worksheet->getCell('X'.$row)->getValue()."' ";
                                                   $strSQL .= " ,'".$vn_vv[$row]."') ;"; 
 
-                                                //  echo $strSQL ."<br>";        
+                                                  //echo $strSQL ."<br>";        
                                                  
                                                   if ($conn->query($strSQL) === TRUE) {  //นำเข้าตาราง
                                                     $new_record = $new_record+1;
